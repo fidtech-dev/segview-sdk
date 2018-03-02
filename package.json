@@ -1,6 +1,6 @@
 {
     "name": "segview",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Arias Maximiliano and Alan DeRenzis <maximiliano.arias,alan.derernzis>@fidtech.net",
     "description": "Seg view SDK module for OCR integration",
     "main": "./lib/segview.js",
