@@ -1,6 +1,6 @@
 {
     "name": "segview",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "author": "Arias Maximiliano and Alan DeRenzis <maximiliano.arias,alan.derernzis>@fidtech.net",
     "description": "Segview SDK module for image recognition integration",
     "main": "./lib/segview.js",
